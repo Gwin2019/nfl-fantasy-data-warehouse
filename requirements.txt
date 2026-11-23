@@ -1,0 +1,9 @@
+nflreadpy
+pandas
+pyarrow
+sqlalchemy
+psycopg2-binary
+python-dotenv
+dbt-postgres
+pytest
+ruff
